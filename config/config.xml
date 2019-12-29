@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <KeyValuePairs>
+    <KeyValuePair>
+      <BASE-URL>localhost</BASE-URL>
+      <Key>hostname</Key>
+      <Value>0000</Value>
+    </KeyValuePair>
+  </KeyValuePairs>
+</configuration>

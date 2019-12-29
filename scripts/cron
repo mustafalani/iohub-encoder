@@ -1,0 +1,3 @@
+* * * * * iohub/scripts/channel-status.sh >> iohub/logs/all/channel-status.log
+* * * * * iohub/scripts/channel-uptime.sh >> iohub/logs/all/channel-uptime.log
+* * * * * iohub/scripts/encoder-uptime.sh >> iohub/logs/all/encoder-uptime.log
